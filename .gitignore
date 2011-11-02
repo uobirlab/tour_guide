@@ -3,3 +3,5 @@
 dependencies.xml
 ros.properties
 target/
+*.iml
+*.eml
