@@ -5,3 +5,6 @@ ros.properties
 target/
 *.iml
 *.eml
+*.ipr
+*.iws
+.gradle/
